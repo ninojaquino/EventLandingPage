@@ -1,0 +1,70 @@
+.navbar {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.3rem;
+}
+
+.navbar .navbar-nav .nav-item .nav-link {
+  color: rgba(1, 4, 49, 0.719);
+  padding-left: 20px;
+}
+
+.jumbotron {
+  background: url("https://images.unsplash.com/photo-1517502884422-41eaead166d4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1325&q=80");
+  background-size: cover;
+  height: calc(100vh - 53px);
+}
+
+.jumbotron h1 {
+  color: rgba(1, 4, 49, 0.719);
+}
+
+.jumbotron p {
+  color: rgb(255, 255, 255);
+}
+
+.speakerHeader {
+  margin-top: 20px;
+}
+
+.speakerHeader h1 {
+  margin-bottom: 20px;
+}
+
+.speakerCardWrapper {
+  padding: 100px;
+}
+
+.speakerCard {
+  padding: 60px;
+}
+
+.speakerCard > * {
+  margin-bottom: 30px;
+}
+
+.img-thumbnail {
+  border: none;
+  border-radius: 16px;
+}
+
+.btn {
+  border: 3px solid white;
+  width: 20%;
+  padding: 15px;
+  margin-top: 15px;
+  background: rgba(1, 4, 49, 0.795);
+  border-radius: 10px;
+}
+
+.btn a {
+  color: white;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.tickets span {
+    font-weight: bold;
+}

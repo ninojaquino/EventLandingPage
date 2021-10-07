@@ -65,6 +65,52 @@
   text-transform: uppercase;
 }
 
+
+.tickets h2 {
+  margin-bottom: 30px;
+}
+
+.tickets p {
+  margin-bottom: 20px;
+}
+
 .tickets span {
     font-weight: bold;
+}
+
+.maps {
+  padding: 100px;
+}
+
+.maps h2 {
+  margin-bottom: 35px;
+}
+
+.maps p {
+  margin-bottom: 25px;
+  width: 50%;
+}
+
+.maps span {
+  font-weight: bold;
+}
+
+.footer {
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.smlinks {
+    text-decoration: none;
+    padding-bottom: 20px;
+}
+
+.smlinks a {
+  font-size: 25px;
+  color: grey;
+  letter-spacing: 5px;
+}
+
+.copyright {
+  text-align: right;
 }
